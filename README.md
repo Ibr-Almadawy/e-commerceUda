@@ -3,7 +3,7 @@
 ## Table of contents
 
 1. Project description :
-    - About
+    - About 
     - How to use  ***Important to run***
 2. Project folders and files.
 3. Running scripts.
